@@ -7,7 +7,7 @@ Here how you control your spaceship,
 - Arrows key to move spaceship.
 - Spacebar to fire bullet.
 
-Finally, this project was following the principles we have learned throughout this Nanodegree Program. Still a lot of opportunity to refactor the code and more C++ features can be applied.
+Finally, this project was following the principles we have learned throughout this Nanodegree Program. Still a lot of opportunity for code refactoring and add more C++ features.
 
 ## Dependencies for Running Locally
 * cmake >= 3.7
